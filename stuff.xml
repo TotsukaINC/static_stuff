@@ -1,7 +1,5 @@
 <?xml version = "1.0"?>
-<stuff>
-  <android tag="11">
-    <kernel tag="9.0">https://somekernel.com</kernel>
-    <os tag="3.0">https://someos.com</os>
-  </android>
-</stuff>
+<android tag="11">
+  <kernel tag="9.0">https://somekernel.com</kernel>
+  <os tag="3.0">https://someos.com</os>
+</android>
