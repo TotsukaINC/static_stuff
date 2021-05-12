@@ -1,5 +1,0 @@
-<?xml version = "1.0"?>
-<android version="11">
-  <kernel version="9.0">https://somekernel.com</kernel>
-  <kernel version="1.0">https://somekernel.com</kernel>
-</android>
